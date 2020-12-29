@@ -11,4 +11,6 @@ public interface EmployeeService {
     public List<Employee> getAllEmployees();
 
     public void saveEmployee(Employee employee);
+
+    public void deleteEmployee(int id);
 }
