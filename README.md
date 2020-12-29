@@ -1,4 +1,4 @@
-**Spring MVC + Hibernate**
+**Spring MVC + Hibernate + AOP**
 
 ![spring-01](https://raw.githubusercontent.com/AdilhanKaikenov/spring_mvc_hibernate_aop/master/etc/Spring_MVC_Hibernate.jpg)
 
